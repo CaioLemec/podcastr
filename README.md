@@ -8,7 +8,7 @@
   <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=TECHNOLOGIES&color=8257E5&style=for-the-badge&logo=JSON"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#octocat-environment"><img src="https://img.shields.io/static/v1?label=&message=ENVIRONMENT&color=8257E5&style=for-the-badge&logo=visual-studio-code"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark_tabs-license"><img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=8257E5&style=for-the-badge&logo=LibreOffice"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#wave-participants"><img src="https://img.shields.io/static/v1?label=&message=PARTICIPANTS&color=8257E5&style=for-the-badge&logo=Dark Reader"/></a>
+    <a href="#wave-participants"><img src="https://img.shields.io/static/v1?label=&message=PARTICIPANTS&color=8257E5&style=for-the-badge&logo=dark-reader"/></a>
 </p>
 
 <br>
@@ -40,6 +40,7 @@ In this application it was possible to deepen knowledge in front-end development
 - SSG (Static site Generation), 
 - Fake API (Json-server). 
 - css-modules & SASS.
+- Axios.
 
 <br>
 <hr>
@@ -63,6 +64,7 @@ In this application it was possible to deepen knowledge in front-end development
 - [Typescript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [Json Server](https://www.npmjs.com/package/json-server)
+- [Axios](https://github.com/axios/axios)
 
 <br>
 <hr>
@@ -83,7 +85,7 @@ yarn server
 ```
 4. At your terminal set this command line to get <strong>dev</strong> mode running:
 ```bash
-yarn server 
+yarn dev
 ```
 5. You can also check the <strong>build</strong> mode running:
 ```bash
