@@ -52,6 +52,8 @@ In this application it was possible to deepen knowledge in front-end development
 
 <h3 align="center">Click <a href="">HERE</a> if you want to see this aplication running.</h3>
 
+<h3 align="center">You can also check completed layout at <a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr">FIGMA</a>.</h3>
+
 <br>
 
 <br>
