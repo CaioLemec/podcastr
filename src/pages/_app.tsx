@@ -21,8 +21,12 @@ function MyApp({ Component, pageProps }) {
     setIsPlaying(!isPlaying);
   }
 
+  function setPlayinState(state: boolean) {
+    setIsPlaying(state);
+  }
+
   return (
-    <PlayerContext.Provider value={{episodeList, currentEpisodeIndex, play, isPlaying, togglePlay}}>
+    <PlayerContext.Provider value={{episodeList, currentEpisodeIndex, play, isPlaying, togglePlay, setPlayinState}}>
     <div className={styles.wrapper}>
       <main>
       <Header />
