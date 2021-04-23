@@ -3,18 +3,20 @@
 </h1>
 
 <p align="center">
-  <a href="#desktop_computer-project"><img src="https://img.shields.io/static/v1?label=&message=PROJECT&color=8257E5&style=for-the-badge&logo=Next.js"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#nail_care-layout"><img src="https://img.shields.io/static/v1?label=&message=LAYOULT&color=8257E5&style=for-the-badge&logo=CSS3"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=TECHNOLOGIES&color=8257E5&style=for-the-badge&logo=JSON"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#octocat-environment"><img src="https://img.shields.io/static/v1?label=&message=ENVIRONMENT&color=8257E5&style=for-the-badge&logo=visual-studio-code"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark_tabs-license"><img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=8257E5&style=for-the-badge&logo=LibreOffice"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desktop_computer-project"><img src="https://img.shields.io/static/v1?label=&message=PROJECT&color=8257E5&style=for-the-badge&logo=Next.js"/></a>&nbsp;
+  <a href="#nail_care-layout"><img src="https://img.shields.io/static/v1?label=&message=LAYOULT&color=8257E5&style=for-the-badge&logo=CSS3"/></a>&nbsp;
+  <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=TECHNOLOGIES&color=8257E5&style=for-the-badge&logo=JSON"/></a>
+  <p>
+  <p align="center">
+  <a href="#octocat-environment"><img src="https://img.shields.io/static/v1?label=&message=ENVIRONMENT&color=8257E5&style=for-the-badge&logo=visual-studio-code"/></a>&nbsp;
+  <a href="#bookmark_tabs-license"><img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=8257E5&style=for-the-badge&logo=LibreOffice"/></a>&nbsp;
     <a href="#wave-participants"><img src="https://img.shields.io/static/v1?label=&message=PARTICIPANTS&color=8257E5&style=for-the-badge&logo=dark-reader"/></a>
 </p>
 
 <br>
 
 <p align="center">
- <img alt="mockup" src="./public/mockup.svg" width="65%">
+ <img alt="mockup" src="./public/podcastr-mockup.png" width="65%">
 </p>
 
 <br>
@@ -47,7 +49,8 @@ In this application it was possible to deepen knowledge in front-end development
 
 ## :nail_care: Layout
 <p align="center">
-<img src="./public/podcastr.gif" width="65%" height="65%" />
+<img src="./public/podcastr1.gif" width="65%" height="65%" />
+<img src="./public/podcastr2.gif" width="65%" height="65%" />
 </p>
 
 <h3 align="center">Click <a href="">HERE</a> if you want to see this aplication running.</h3>
