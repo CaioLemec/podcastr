@@ -53,7 +53,7 @@ In this application it was possible to deepen knowledge in front-end development
 <img src="./public/podcastr2.gif" width="65%" height="65%" />
 </p>
 
-<h3 align="center">Click <a href="">HERE</a> if you want to see this aplication running.</h3>
+<h3 align="center">Click <a href="https://podcastr-liart.vercel.app/">HERE</a> if you want to see this aplication running.</h3>
 
 <h3 align="center">You can also check completed layout at <a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr">FIGMA</a>.</h3>
 
